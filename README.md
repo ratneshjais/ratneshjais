@@ -3,7 +3,7 @@
 - :seedling: I'm growing myself with other Web technology
 - :handshake: Please looking to collaborate and work with for other.
 - :cowboy_hat_face: I'm bit introvert but I really love talking and making friends online
-- :ballot_box: Reach me - mail: ratneshdevwork@gmail.com
+- :ballot_box: Reach me - mail: ratneshjais@gmail.com
 
 <!---
 ratneshjais/ratneshjais is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
