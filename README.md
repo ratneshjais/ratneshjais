@@ -6,6 +6,7 @@ from Figma to production, and automate the repetitive parts of engineering with 
 - 🛠️ **Now:** WordPress (Bedrock, Sage, ACF) and Laravel for UK agency clients; full-stack **Next.js + Payload CMS** applications
 - 🧭 **Built:** an internal platform that monitors and patches a fleet of client WordPress sites
 - 🤖 **Into:** AI agent automation with Claude Code skills, hooks and MCP
+- 🧩 **Built:** [skill-tracker](https://github.com/ratneshjais/claude-plugins), a Claude Code plugin that keeps an anonymous, local-only record of the skills you use at work and turns it into resume bullets
 - 🌱 **Open source:** JSON-aware search-replace for [WP-CLI](https://github.com/wp-cli/search-replace-command/pull/226)
 
 Most of my day-to-day work lives in private client repositories, so the contribution graph shows activity rather than code.
